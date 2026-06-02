@@ -14,27 +14,31 @@ Sou um desenvolvedor em formação focado em **Back-end**, com experiência prá
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🧠 Tecnologias & Ferramentas
 
 ### Back-end
-- Node.js
-- Express
-- APIs REST
-- JWT / autenticação
-- Banco de dados (SQL e NoSQL)
-- Boas práticas de arquitetura
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Front-end (em evolução)
-- HTML5 / CSS3
-- JavaScript (ES6+)
-- React (estudos e prática)
-- Consumo de APIs
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Outras ferramentas
-- Git & GitHub
-- Docker (básico/intermediário)
-- Postman / Insomnia
-- Linux (ambiente de desenvolvimento)
+### Outras Ferramentas & Infra
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ---
 
@@ -51,28 +55,27 @@ Sou um desenvolvedor em formação focado em **Back-end**, com experiência prá
 
 ### 🚀 Simpay — API de Vendas de Ingressos
 API backend para gerenciamento de eventos e vendas de ingressos, com documentação e deploy em produção.
-- 🔗 Deploy: https://simpay-api.onrender.com/docs/
-- 💻 GitHub: https://github.com/p3drosantos/simpay
-- ⚙️ Stack: Node.js, TypeScript, PostgreSQL, Drizzle ORM, Stripe, AWS SQS, Docker 
+- **Stack:** Node.js, TypeScript, PostgreSQL, Drizzle ORM, Stripe, AWS SQS, Docker 
+- 🔗 [Deploy em Produção](https://simpay-api.onrender.com/docs/)
+- 💻 [Repositório no GitHub](https://github.com/p3drosantos/simpay)
 
 ---
 
 ### 🛒 Drop Store — E-commerce Full Stack
 E-commerce completo com interface moderna e experiência de compra funcional.
-- 🔗 Deploy: https://drop-store-nine.vercel.app/
-- 💻 GitHub: https://github.com/p3drosantos/drop-store
-- ⚙️ Stack: Next.js, React, TypeScript, Prisma, TailwindCSS, Shadcn UI, Stripe, NextAuth, Supabase 
+- **Stack:** Next.js, React, TypeScript, Prisma, TailwindCSS, Shadcn UI, Stripe, NextAuth, Supabase 
+- 🔗 [Deploy em Produção](https://drop-store-nine.vercel.app/)
+- 💻 [Repositório no GitHub](https://github.com/p3drosantos/drop-store)
 
 ---
 
 ### 🍎 nutrIA — Sistema de Dieta (Backend + Frontend)
 Sistema para controle de dieta e calorias, com arquitetura full stack.
-- 💻 Backend: https://github.com/p3drosantos/nutrIA
-- 💻 Frontend: https://github.com/p3drosantos/nutrIA-web
-- ⚙️ Stack: Node.js, API REST, Front-end web, integração de dados
+- **Stack:** Node.js, API REST, Front-end web, integração de dados
+- 🔗 [Deploy em Produção](https://nutria-web-chi.vercel.app/)
+- 💻 [Repositório Backend](https://github.com/p3drosantos/nutrIA) | [Repositório Frontend](https://github.com/p3drosantos/nutrIA-web)
 
 ---
-
 
 ## 📈 Objetivo
 
@@ -82,8 +85,8 @@ Meu objetivo é evoluir como desenvolvedor, construir sistemas reais e bem estru
 
 ## 📫 Contato
 
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/pedro-santos-43166622b/)
-- Email: [p3dro.santossc@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-santos-43166622b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p3dro.santossc@gmail.com)
 
 ---
 
