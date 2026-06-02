@@ -22,6 +22,7 @@ Sou um desenvolvedor em formação focado em **Back-end**, com experiência prá
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Front-end
@@ -36,9 +37,10 @@ Sou um desenvolvedor em formação focado em **Back-end**, com experiência prá
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![AWS SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
 
 ---
 
@@ -53,11 +55,11 @@ Sou um desenvolvedor em formação focado em **Back-end**, com experiência prá
 
 ## 📂 Projetos em destaque
 
-### 🚀 Simpay — API de Vendas de Ingressos
-API backend para gerenciamento de eventos e vendas de ingressos, com documentação e deploy em produção.
-- **Stack:** Node.js, TypeScript, PostgreSQL, Drizzle ORM, Stripe, AWS SQS, Docker 
-- 🔗 [Deploy em Produção](https://simpay-api.onrender.com/docs/)
-- 💻 [Repositório no GitHub](https://github.com/p3drosantos/simpay)
+### 🍎 nutrIA — Sistema de Dieta (Backend + Frontend)
+Sistema para controle de dieta e calorias, com arquitetura full stack.
+- **Stack:** Node.js, API REST, Front-end web, integração de dados
+- 🔗 [Deploy em Produção](https://nutria-web-chi.vercel.app/)
+- 💻 [Repositório Backend](https://github.com/p3drosantos/nutrIA) | [Repositório Frontend](https://github.com/p3drosantos/nutrIA-web)
 
 ---
 
@@ -69,11 +71,11 @@ E-commerce completo com interface moderna e experiência de compra funcional.
 
 ---
 
-### 🍎 nutrIA — Sistema de Dieta (Backend + Frontend)
-Sistema para controle de dieta e calorias, com arquitetura full stack.
-- **Stack:** Node.js, API REST, Front-end web, integração de dados
-- 🔗 [Deploy em Produção](https://nutria-web-chi.vercel.app/)
-- 💻 [Repositório Backend](https://github.com/p3drosantos/nutrIA) | [Repositório Frontend](https://github.com/p3drosantos/nutrIA-web)
+### 🚀 Simpay — API de Vendas de Ingressos
+API backend para gerenciamento de eventos e vendas de ingressos, com documentação e deploy em produção.
+- **Stack:** Node.js, TypeScript, PostgreSQL, Drizzle ORM, Stripe, AWS SQS, Docker 
+- 🔗 [Deploy em Produção](https://simpay-api.onrender.com/docs/)
+- 💻 [Repositório no GitHub](https://github.com/p3drosantos/simpay)
 
 ---
 
